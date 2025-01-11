@@ -1,4 +1,4 @@
-# Kaggle-NLP-LTSM
+# Kaggle-NLP-LTSM (CU Boulder MS-DS DTSA-5511)
 #### Goal
 The goal of this project is to analyze Twitter data to determine which tweets are about real disasters and which ones are not. Natural language processing (NLP) techniques will be employed to extract features from the tweets, which will then be used for classification.
 
